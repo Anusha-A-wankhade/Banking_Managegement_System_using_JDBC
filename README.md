@@ -1,7 +1,8 @@
 # Banking_Managegement_System_using_JDBC
 "Java-based Banking Management System for user registration, account management, and transactions. Utilizes MySQL database. Easy to run and contribute."
 Banking Management System
-This is a simple banking management system implemented in Java. It allows users to register, login, open accounts, deposit money, withdraw money, transfer money between accounts, and check their account balances.
+This is a simple banking management system implemented in Java. 
+It allows users to register, login, open accounts, deposit money, withdraw money, transfer money between accounts, and check their account balances.
 
 Features:
 *User Registration: New users can register by providing their full name, email, and password.
